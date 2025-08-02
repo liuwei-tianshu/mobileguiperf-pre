@@ -1,7 +1,7 @@
 # Screencast-Based Analysis of User-Perceived GUI Responsiveness
 
 **Authors:** Wei Liu, Linqiang Guo, Yi Wen Heng, Chenglin Li, Tse-Hsun (Peter) Chen, Ahmed E. Hassan  
-**Date:** Submitted to arXiv on August 2, 2025
+**Date:** Submitted to arXiv, 2025
 
 ---
 
